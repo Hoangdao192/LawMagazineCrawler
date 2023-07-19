@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      username: crawler
+      password: Hoangdao192@
+      database: magazine_crawler
+      authentication-database: admin
